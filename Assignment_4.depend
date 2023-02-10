@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1666620870 source:c:\comp20080\assignment_4\memory.cpp
+	<iostream>
+	"Memory.h"
+
+1666407087 c:\comp20080\assignment_4\memory.h
+
+1666621173 source:c:\comp20080\assignment_4\memorymain.cpp
+	<iostream>
+	"Memory.h"
+

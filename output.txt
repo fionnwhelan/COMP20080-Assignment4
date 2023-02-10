@@ -1,0 +1,36 @@
+Please enter your first value for number of words:
+234662
+Number of sections: 28
+Number of pages: 10
+Number of words: 166
+Please enter your second value for number of words:
+45543
+Number of sections: 5
+Number of pages: 8
+Number of words: 487
+The following are the values for the combined memory:
+Number of sections: 34
+Number of pages: 3
+Number of words: 141
+Memory 1 is greater than Memory 2.
+The following are the values for memory 1, after it has been decremented by 1:
+Number of sections: 28
+Number of pages: 10
+Number of words: 165
+The following are the values for memory 2, after it has been decremented by 1:
+Number of sections: 5
+Number of pages: 8
+Number of words: 486
+How many words would you like to add to the memory?
+5
+The following are the values for Memory 1, after the addition:
+Number of sections: 28
+Number of pages: 10
+Number of words: 170
+The following are the values for Memory 2, after the addition:
+Number of sections: 5
+Number of pages: 8
+Number of words: 491
+
+Process returned 0 (0x0)   execution time : 7.172 s
+Press any key to continue.
